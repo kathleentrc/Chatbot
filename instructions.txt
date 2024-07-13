@@ -1,0 +1,70 @@
+########################################
+
+	     MCO2: CHATBOT
+
+########################################
+
+S11 - Group 1
+
+Cloma, Shania Francine T.
+Co, Bianz Jann Kenrick Y.
+Cruz, Kathleen Therese R.
+Guillermo, Juliana Isabelle A.
+Roman, Isaac Nathan
+
+########################################
+
+> RUN THE PROGRAM ----------------------
+
+1. Open the terminal where
+main.py and family.pl are located.
+
+2. Type the command, 'python main.py'
+
+
+> ASSERTING ----------------------------
+
+1. With main.py running, the user
+will be greeted by the message 'Enter a
+prompt below'
+
+2. You may assert a fact by declaring names
+and the type of relationship, followed by
+a period (.) 
+
+For example, 
+'Shane is the father of Kath.'
+
+Take note to always capitalize the names.
+
+- For more assertion-related prompts, please
+refer to the MCO2 specifications, section
+2.3.1 (Statement Prompts)
+
+
+> QUERYING -----------------------------
+
+1. With main.py running, the user
+will be greeted by the message 'Enter a
+prompt below'
+
+2. You may query the knowledge base by 
+inputting names and the type of relationship, 
+followed by a question mark (?). 
+
+For example, 
+'Is Shane the father of Kath?'
+
+Take note to always capitalize the names.
+
+- For more question-related prompts, please
+refer to the MCO2 specifications, section
+2.3.2 (Question Prompts)
+
+
+> EXIT THE PROGRAM ---------------------
+
+1. To exit the program, type 'quit'
+
+----------------------------------------
+
